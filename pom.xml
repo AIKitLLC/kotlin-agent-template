@@ -33,6 +33,12 @@
 
         <dependency>
             <groupId>com.embabel.agent</groupId>
+            <artifactId>embabel-agent-starter-ollama</artifactId>
+            <version>${embabel-agent.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.embabel.agent</groupId>
             <artifactId>embabel-agent-starter-shell</artifactId>
             <version>${embabel-agent.version}</version>
         </dependency>

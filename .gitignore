@@ -11,3 +11,7 @@ embabel-agent-api/src/main/resources/mcp/**
 .claude
 
 **/*.log
+# CI / local evidence
+.attest-out/
+data/
+spring-shell.log
